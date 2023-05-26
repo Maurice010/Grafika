@@ -1,0 +1,1 @@
+script.js zawiera funkcje generateCube(size, color) generującą i zwracającą tablicę 'cubeVertices', która jest użyta potem do stworzenia sześcianu. 'cubeVertices' zawiera wszystkie informacje o wierzchołkach sześcianu (jakie wierzchołki są przyporządkowane do poszczególnej ściany oraz kolory poszczególnych ścian). 
